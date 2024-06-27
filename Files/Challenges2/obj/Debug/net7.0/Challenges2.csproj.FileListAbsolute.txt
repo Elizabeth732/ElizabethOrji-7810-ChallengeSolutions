@@ -1,0 +1,14 @@
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\Challenges2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\Challenges2.AssemblyInfoInputs.cache
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\Challenges2.AssemblyInfo.cs
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\Challenges2.csproj.CoreCompileInputs.cache
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\bin\Debug\net7.0\Challenges2.exe
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\bin\Debug\net7.0\Challenges2.deps.json
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\bin\Debug\net7.0\Challenges2.runtimeconfig.json
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\bin\Debug\net7.0\Challenges2.dll
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\bin\Debug\net7.0\Challenges2.pdb
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\Challenges2.dll
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\refint\Challenges2.dll
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\Challenges2.pdb
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\Challenges2.genruntimeconfig.cache
+C:\Users\mac\Downloads\Start\Start\Files\Challenges2\obj\Debug\net7.0\ref\Challenges2.dll
